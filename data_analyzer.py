@@ -110,6 +110,11 @@ def main():
         """)
     rows = cursor.fetchall()
     print(rows)
+    cursor.execute("""
+        SELECT COUNT(m.map), m.map FROM matches m GROUP BY m.map
+        """)
+    rows = cursor.fetchall()
+    print(rows)
 
     caluculateMapWin(connection)
 

@@ -1,0 +1,2278 @@
+{
+    "5000011617": {
+        "5000346144": [
+            {
+                "uuid": "5000346144@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011617,
+                "group_id": 5000346144,
+                "team_1_id": 5001848565,
+                "team_2_id": 5001848562,
+                "team_1": {
+                    "id": 5001848565,
+                    "tournament_id": 5000005786,
+                    "title": "\u0161alom",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "502487904",
+                    "extra_data": {
+                        "contacts": "woty_",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848562,
+                    "tournament_id": 5000005786,
+                    "title": "HATFU",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "569440656",
+                    "extra_data": {
+                        "contacts": "wot",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848565,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346144@1",
+                    "round": 1,
+                    "position": 1,
+                    "next_match_for_winner_uuid": null,
+                    "next_match_for_looser_uuid": null
+                },
+                "start_at": 1625948162.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346144@13",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011617,
+                "group_id": 5000346144,
+                "team_1_id": 5001848279,
+                "team_2_id": 5001848523,
+                "team_1": {
+                    "id": 5001848279,
+                    "tournament_id": 5000005786,
+                    "title": "SilverLiga",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "506631748",
+                    "extra_data": {
+                        "contacts": "sdh",
+                        "password": true,
+                        "description": "dfhs",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848523,
+                    "tournament_id": 5000005786,
+                    "title": "\u00c9n csak ide f\u00f6lj\u00e1rok",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "535873794",
+                    "extra_data": {
+                        "contacts": "Doxy7",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848523,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346144@13",
+                    "round": 4,
+                    "position": 6,
+                    "next_match_for_winner_uuid": "5000346144@6",
+                    "next_match_for_looser_uuid": null
+                },
+                "start_at": 1625946002.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346144@15",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011617,
+                "group_id": 5000346144,
+                "team_1_id": 5001848543,
+                "team_2_id": 5001848500,
+                "team_1": {
+                    "id": 5001848543,
+                    "tournament_id": 5000005786,
+                    "title": "Siwa",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "500362004",
+                    "extra_data": {
+                        "contacts": "dsa",
+                        "password": true,
+                        "description": "dsa",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848500,
+                    "tournament_id": 5000005786,
+                    "title": "R\u00fcdigerKeineKaprioln",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "501124942",
+                    "extra_data": {
+                        "contacts": "QBpoint",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848500,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346144@15",
+                    "round": 4,
+                    "position": 8,
+                    "next_match_for_winner_uuid": "5000346144@7",
+                    "next_match_for_looser_uuid": null
+                },
+                "start_at": 1625946002.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346144@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011617,
+                "group_id": 5000346144,
+                "team_1_id": 5001848483,
+                "team_2_id": 5001848565,
+                "team_1": {
+                    "id": 5001848483,
+                    "tournament_id": 5000005786,
+                    "title": "Three Hundred Bucks$",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "540217248",
+                    "extra_data": {
+                        "contacts": "+481488228",
+                        "password": true,
+                        "description": "$$$ Fisting Is 300 Bucks $$$",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848565,
+                    "tournament_id": 5000005786,
+                    "title": "\u0161alom",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "502487904",
+                    "extra_data": {
+                        "contacts": "woty_",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848565,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346144@2",
+                    "round": 2,
+                    "position": 1,
+                    "next_match_for_winner_uuid": "5000346144@1",
+                    "next_match_for_looser_uuid": null
+                },
+                "start_at": 1625947442.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346144@3",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011617,
+                "group_id": 5000346144,
+                "team_1_id": 5001848562,
+                "team_2_id": 5001848548,
+                "team_1": {
+                    "id": 5001848562,
+                    "tournament_id": 5000005786,
+                    "title": "HATFU",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "569440656",
+                    "extra_data": {
+                        "contacts": "wot",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848548,
+                    "tournament_id": 5000005786,
+                    "title": "Fare2003",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "517590344",
+                    "extra_data": {
+                        "contacts": "fare2003",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848562,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346144@3",
+                    "round": 2,
+                    "position": 2,
+                    "next_match_for_winner_uuid": "5000346144@1",
+                    "next_match_for_looser_uuid": null
+                },
+                "start_at": 1625947442.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346144@4",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011617,
+                "group_id": 5000346144,
+                "team_1_id": 5001848483,
+                "team_2_id": 5001848564,
+                "team_1": {
+                    "id": 5001848483,
+                    "tournament_id": 5000005786,
+                    "title": "Three Hundred Bucks$",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "540217248",
+                    "extra_data": {
+                        "contacts": "+481488228",
+                        "password": true,
+                        "description": "$$$ Fisting Is 300 Bucks $$$",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848564,
+                    "tournament_id": 5000005786,
+                    "title": "TONY SEDLY JE KRIPL",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "537634815",
+                    "extra_data": {
+                        "contacts": ".",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848483,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346144@4",
+                    "round": 3,
+                    "position": 1,
+                    "next_match_for_winner_uuid": "5000346144@2",
+                    "next_match_for_looser_uuid": null
+                },
+                "start_at": 1625946722.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346144@5",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011617,
+                "group_id": 5000346144,
+                "team_1_id": 5001848429,
+                "team_2_id": 5001848565,
+                "team_1": {
+                    "id": 5001848429,
+                    "tournament_id": 5000005786,
+                    "title": "GG's",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "539047971",
+                    "extra_data": {
+                        "contacts": "Ingame",
+                        "password": true,
+                        "description": "Gg, next enemys to farm please !",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848565,
+                    "tournament_id": 5000005786,
+                    "title": "\u0161alom",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "502487904",
+                    "extra_data": {
+                        "contacts": "woty_",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848565,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346144@5",
+                    "round": 3,
+                    "position": 2,
+                    "next_match_for_winner_uuid": "5000346144@2",
+                    "next_match_for_looser_uuid": null
+                },
+                "start_at": 1625946722.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346144@6",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011617,
+                "group_id": 5000346144,
+                "team_1_id": 5001848562,
+                "team_2_id": 5001848523,
+                "team_1": {
+                    "id": 5001848562,
+                    "tournament_id": 5000005786,
+                    "title": "HATFU",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "569440656",
+                    "extra_data": {
+                        "contacts": "wot",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848523,
+                    "tournament_id": 5000005786,
+                    "title": "\u00c9n csak ide f\u00f6lj\u00e1rok",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "535873794",
+                    "extra_data": {
+                        "contacts": "Doxy7",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848562,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346144@6",
+                    "round": 3,
+                    "position": 3,
+                    "next_match_for_winner_uuid": "5000346144@3",
+                    "next_match_for_looser_uuid": null
+                },
+                "start_at": 1625946722.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346144@7",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011617,
+                "group_id": 5000346144,
+                "team_1_id": 5001848548,
+                "team_2_id": 5001848500,
+                "team_1": {
+                    "id": 5001848548,
+                    "tournament_id": 5000005786,
+                    "title": "Fare2003",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "517590344",
+                    "extra_data": {
+                        "contacts": "fare2003",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848500,
+                    "tournament_id": 5000005786,
+                    "title": "R\u00fcdigerKeineKaprioln",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "501124942",
+                    "extra_data": {
+                        "contacts": "QBpoint",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848548,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346144@7",
+                    "round": 3,
+                    "position": 4,
+                    "next_match_for_winner_uuid": "5000346144@3",
+                    "next_match_for_looser_uuid": null
+                },
+                "start_at": 1625946722.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346144@9",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011617,
+                "group_id": 5000346144,
+                "team_1_id": 5001848564,
+                "team_2_id": 5001847211,
+                "team_1": {
+                    "id": 5001848564,
+                    "tournament_id": 5000005786,
+                    "title": "TONY SEDLY JE KRIPL",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "537634815",
+                    "extra_data": {
+                        "contacts": ".",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001847211,
+                    "tournament_id": 5000005786,
+                    "title": "Golden Noobs",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "528181205",
+                    "extra_data": {
+                        "contacts": "N/A",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848564,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346144@9",
+                    "round": 4,
+                    "position": 2,
+                    "next_match_for_winner_uuid": "5000346144@4",
+                    "next_match_for_looser_uuid": null
+                },
+                "start_at": 1625946002.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            }
+        ]
+    },
+    "5000011616": {
+        "5000346139": [
+            {
+                "uuid": "5000346139@1@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346139,
+                "team_1_id": 5001848429,
+                "team_2_id": 5001848059,
+                "team_1": {
+                    "id": 5001848429,
+                    "tournament_id": 5000005786,
+                    "title": "GG's",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "539047971",
+                    "extra_data": {
+                        "contacts": "Ingame",
+                        "password": true,
+                        "description": "Gg, next enemys to farm please !",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848059,
+                    "tournament_id": 5000005786,
+                    "title": "Slawo PL",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "507096411",
+                    "extra_data": {
+                        "contacts": "s",
+                        "description": "6500+ welcome/zapraszam",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848429,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346139@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1625943602.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346139@1@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346139,
+                "team_1_id": 5001848410,
+                "team_2_id": 5001848483,
+                "team_1": {
+                    "id": 5001848410,
+                    "tournament_id": 5000005786,
+                    "title": "The Rollin Dead",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "534641228",
+                    "extra_data": {
+                        "contacts": "Drunkybaby",
+                        "description": "I dont think we will win this, but it is just a bit of laugh",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001848483,
+                    "tournament_id": 5000005786,
+                    "title": "Three Hundred Bucks$",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "540217248",
+                    "extra_data": {
+                        "contacts": "+481488228",
+                        "password": true,
+                        "description": "$$$ Fisting Is 300 Bucks $$$",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848483,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346139@1@2",
+                    "round": 1,
+                    "position": 2
+                },
+                "start_at": 1625943602.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346139@2@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346139,
+                "team_1_id": 5001848429,
+                "team_2_id": 5001848483,
+                "team_1": {
+                    "id": 5001848429,
+                    "tournament_id": 5000005786,
+                    "title": "GG's",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "539047971",
+                    "extra_data": {
+                        "contacts": "Ingame",
+                        "password": true,
+                        "description": "Gg, next enemys to farm please !",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848483,
+                    "tournament_id": 5000005786,
+                    "title": "Three Hundred Bucks$",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "540217248",
+                    "extra_data": {
+                        "contacts": "+481488228",
+                        "password": true,
+                        "description": "$$$ Fisting Is 300 Bucks $$$",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848483,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346139@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1625944322.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346139@2@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346139,
+                "team_1_id": 5001848059,
+                "team_2_id": 5001848410,
+                "team_1": {
+                    "id": 5001848059,
+                    "tournament_id": 5000005786,
+                    "title": "Slawo PL",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "507096411",
+                    "extra_data": {
+                        "contacts": "s",
+                        "description": "6500+ welcome/zapraszam",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001848410,
+                    "tournament_id": 5000005786,
+                    "title": "The Rollin Dead",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "534641228",
+                    "extra_data": {
+                        "contacts": "Drunkybaby",
+                        "description": "I dont think we will win this, but it is just a bit of laugh",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848059,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346139@2@2",
+                    "round": 2,
+                    "position": 2
+                },
+                "start_at": 1625944322.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346139@3@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346139,
+                "team_1_id": 5001848429,
+                "team_2_id": 5001848410,
+                "team_1": {
+                    "id": 5001848429,
+                    "tournament_id": 5000005786,
+                    "title": "GG's",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "539047971",
+                    "extra_data": {
+                        "contacts": "Ingame",
+                        "password": true,
+                        "description": "Gg, next enemys to farm please !",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848410,
+                    "tournament_id": 5000005786,
+                    "title": "The Rollin Dead",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "534641228",
+                    "extra_data": {
+                        "contacts": "Drunkybaby",
+                        "description": "I dont think we will win this, but it is just a bit of laugh",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848429,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346139@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1625945042.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346139@3@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346139,
+                "team_1_id": 5001848483,
+                "team_2_id": 5001848059,
+                "team_1": {
+                    "id": 5001848483,
+                    "tournament_id": 5000005786,
+                    "title": "Three Hundred Bucks$",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "540217248",
+                    "extra_data": {
+                        "contacts": "+481488228",
+                        "password": true,
+                        "description": "$$$ Fisting Is 300 Bucks $$$",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848059,
+                    "tournament_id": 5000005786,
+                    "title": "Slawo PL",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "507096411",
+                    "extra_data": {
+                        "contacts": "s",
+                        "description": "6500+ welcome/zapraszam",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848483,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346139@3@2",
+                    "round": 3,
+                    "position": 2
+                },
+                "start_at": 1625945042.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            }
+        ],
+        "5000346140": [
+            {
+                "uuid": "5000346140@1@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346140,
+                "team_1_id": 5001848564,
+                "team_2_id": 5001848526,
+                "team_1": {
+                    "id": 5001848564,
+                    "tournament_id": 5000005786,
+                    "title": "TONY SEDLY JE KRIPL",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "537634815",
+                    "extra_data": {
+                        "contacts": ".",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848526,
+                    "tournament_id": 5000005786,
+                    "title": "wygrana ?",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "539413107",
+                    "extra_data": {
+                        "contacts": "pisa\u0107 priv bo wywalam",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848564,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346140@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1625943602.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346140@1@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346140,
+                "team_1_id": 5001847211,
+                "team_2_id": 5001848571,
+                "team_1": {
+                    "id": 5001847211,
+                    "tournament_id": 5000005786,
+                    "title": "Golden Noobs",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "528181205",
+                    "extra_data": {
+                        "contacts": "N/A",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848571,
+                    "tournament_id": 5000005786,
+                    "title": "essa v2",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "552584513",
+                    "extra_data": {
+                        "contacts": "ez",
+                        "password": true,
+                        "description": "ez",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001847211,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346140@1@2",
+                    "round": 1,
+                    "position": 2
+                },
+                "start_at": 1625943602.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346140@2@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346140,
+                "team_1_id": 5001848564,
+                "team_2_id": 5001848571,
+                "team_1": {
+                    "id": 5001848564,
+                    "tournament_id": 5000005786,
+                    "title": "TONY SEDLY JE KRIPL",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "537634815",
+                    "extra_data": {
+                        "contacts": ".",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848571,
+                    "tournament_id": 5000005786,
+                    "title": "essa v2",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "552584513",
+                    "extra_data": {
+                        "contacts": "ez",
+                        "password": true,
+                        "description": "ez",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848564,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346140@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1625944322.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346140@2@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346140,
+                "team_1_id": 5001848526,
+                "team_2_id": 5001847211,
+                "team_1": {
+                    "id": 5001848526,
+                    "tournament_id": 5000005786,
+                    "title": "wygrana ?",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "539413107",
+                    "extra_data": {
+                        "contacts": "pisa\u0107 priv bo wywalam",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001847211,
+                    "tournament_id": 5000005786,
+                    "title": "Golden Noobs",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "528181205",
+                    "extra_data": {
+                        "contacts": "N/A",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001847211,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346140@2@2",
+                    "round": 2,
+                    "position": 2
+                },
+                "start_at": 1625944322.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346140@3@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346140,
+                "team_1_id": 5001848564,
+                "team_2_id": 5001847211,
+                "team_1": {
+                    "id": 5001848564,
+                    "tournament_id": 5000005786,
+                    "title": "TONY SEDLY JE KRIPL",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "537634815",
+                    "extra_data": {
+                        "contacts": ".",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001847211,
+                    "tournament_id": 5000005786,
+                    "title": "Golden Noobs",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "528181205",
+                    "extra_data": {
+                        "contacts": "N/A",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848564,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346140@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1625945042.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346140@3@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346140,
+                "team_1_id": 5001848571,
+                "team_2_id": 5001848526,
+                "team_1": {
+                    "id": 5001848571,
+                    "tournament_id": 5000005786,
+                    "title": "essa v2",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "552584513",
+                    "extra_data": {
+                        "contacts": "ez",
+                        "password": true,
+                        "description": "ez",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848526,
+                    "tournament_id": 5000005786,
+                    "title": "wygrana ?",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "539413107",
+                    "extra_data": {
+                        "contacts": "pisa\u0107 priv bo wywalam",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848571,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346140@3@2",
+                    "round": 3,
+                    "position": 2
+                },
+                "start_at": 1625945042.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            }
+        ],
+        "5000346141": [
+            {
+                "uuid": "5000346141@1@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346141,
+                "team_1_id": 5001848500,
+                "team_2_id": 5001848555,
+                "team_1": {
+                    "id": 5001848500,
+                    "tournament_id": 5000005786,
+                    "title": "R\u00fcdigerKeineKaprioln",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "501124942",
+                    "extra_data": {
+                        "contacts": "QBpoint",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848555,
+                    "tournament_id": 5000005786,
+                    "title": "Nashi",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "529012492",
+                    "extra_data": {
+                        "contacts": "ROMZ43",
+                        "description": "Nashi",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848500,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346141@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1625943602.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346141@1@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346141,
+                "team_1_id": 5001848279,
+                "team_2_id": 5001848565,
+                "team_1": {
+                    "id": 5001848279,
+                    "tournament_id": 5000005786,
+                    "title": "SilverLiga",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "506631748",
+                    "extra_data": {
+                        "contacts": "sdh",
+                        "password": true,
+                        "description": "dfhs",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848565,
+                    "tournament_id": 5000005786,
+                    "title": "\u0161alom",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "502487904",
+                    "extra_data": {
+                        "contacts": "woty_",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848279,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346141@1@2",
+                    "round": 1,
+                    "position": 2
+                },
+                "start_at": 1625943602.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346141@2@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346141,
+                "team_1_id": 5001848500,
+                "team_2_id": 5001848565,
+                "team_1": {
+                    "id": 5001848500,
+                    "tournament_id": 5000005786,
+                    "title": "R\u00fcdigerKeineKaprioln",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "501124942",
+                    "extra_data": {
+                        "contacts": "QBpoint",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848565,
+                    "tournament_id": 5000005786,
+                    "title": "\u0161alom",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "502487904",
+                    "extra_data": {
+                        "contacts": "woty_",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848565,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346141@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1625944322.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346141@2@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346141,
+                "team_1_id": 5001848555,
+                "team_2_id": 5001848279,
+                "team_1": {
+                    "id": 5001848555,
+                    "tournament_id": 5000005786,
+                    "title": "Nashi",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "529012492",
+                    "extra_data": {
+                        "contacts": "ROMZ43",
+                        "description": "Nashi",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001848279,
+                    "tournament_id": 5000005786,
+                    "title": "SilverLiga",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "506631748",
+                    "extra_data": {
+                        "contacts": "sdh",
+                        "password": true,
+                        "description": "dfhs",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848279,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346141@2@2",
+                    "round": 2,
+                    "position": 2
+                },
+                "start_at": 1625944322.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346141@3@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346141,
+                "team_1_id": 5001848500,
+                "team_2_id": 5001848279,
+                "team_1": {
+                    "id": 5001848500,
+                    "tournament_id": 5000005786,
+                    "title": "R\u00fcdigerKeineKaprioln",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "501124942",
+                    "extra_data": {
+                        "contacts": "QBpoint",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848279,
+                    "tournament_id": 5000005786,
+                    "title": "SilverLiga",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "506631748",
+                    "extra_data": {
+                        "contacts": "sdh",
+                        "password": true,
+                        "description": "dfhs",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848500,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346141@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1625945042.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346141@3@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346141,
+                "team_1_id": 5001848565,
+                "team_2_id": 5001848555,
+                "team_1": {
+                    "id": 5001848565,
+                    "tournament_id": 5000005786,
+                    "title": "\u0161alom",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "502487904",
+                    "extra_data": {
+                        "contacts": "woty_",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848555,
+                    "tournament_id": 5000005786,
+                    "title": "Nashi",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "529012492",
+                    "extra_data": {
+                        "contacts": "ROMZ43",
+                        "description": "Nashi",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848565,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346141@3@2",
+                    "round": 3,
+                    "position": 2
+                },
+                "start_at": 1625945042.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            }
+        ],
+        "5000346142": [
+            {
+                "uuid": "5000346142@1@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346142,
+                "team_1_id": 5001848562,
+                "team_2_id": 5001848362,
+                "team_1": {
+                    "id": 5001848562,
+                    "tournament_id": 5000005786,
+                    "title": "HATFU",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "569440656",
+                    "extra_data": {
+                        "contacts": "wot",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848362,
+                    "tournament_id": 5000005786,
+                    "title": "Boom Boom - Won",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "513845441",
+                    "extra_data": {
+                        "contacts": "gegri",
+                        "description": "",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848562,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346142@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1625943602.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346142@1@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346142,
+                "team_1_id": 5001848556,
+                "team_2_id": 5001848548,
+                "team_1": {
+                    "id": 5001848556,
+                    "tournament_id": 5000005786,
+                    "title": "essa",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "526454109",
+                    "extra_data": {
+                        "contacts": "ez",
+                        "description": "ez",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001848548,
+                    "tournament_id": 5000005786,
+                    "title": "Fare2003",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "517590344",
+                    "extra_data": {
+                        "contacts": "fare2003",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848548,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346142@1@2",
+                    "round": 1,
+                    "position": 2
+                },
+                "start_at": 1625943602.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346142@2@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346142,
+                "team_1_id": 5001848562,
+                "team_2_id": 5001848548,
+                "team_1": {
+                    "id": 5001848562,
+                    "tournament_id": 5000005786,
+                    "title": "HATFU",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "569440656",
+                    "extra_data": {
+                        "contacts": "wot",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848548,
+                    "tournament_id": 5000005786,
+                    "title": "Fare2003",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "517590344",
+                    "extra_data": {
+                        "contacts": "fare2003",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848562,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346142@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1625944322.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346142@2@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346142,
+                "team_1_id": 5001848362,
+                "team_2_id": 5001848556,
+                "team_1": {
+                    "id": 5001848362,
+                    "tournament_id": 5000005786,
+                    "title": "Boom Boom - Won",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "513845441",
+                    "extra_data": {
+                        "contacts": "gegri",
+                        "description": "",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001848556,
+                    "tournament_id": 5000005786,
+                    "title": "essa",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "526454109",
+                    "extra_data": {
+                        "contacts": "ez",
+                        "description": "ez",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848556,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346142@2@2",
+                    "round": 2,
+                    "position": 2
+                },
+                "start_at": 1625944322.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346142@3@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346142,
+                "team_1_id": 5001848562,
+                "team_2_id": 5001848556,
+                "team_1": {
+                    "id": 5001848562,
+                    "tournament_id": 5000005786,
+                    "title": "HATFU",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "569440656",
+                    "extra_data": {
+                        "contacts": "wot",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848556,
+                    "tournament_id": 5000005786,
+                    "title": "essa",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "526454109",
+                    "extra_data": {
+                        "contacts": "ez",
+                        "description": "ez",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848562,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346142@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1625945042.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346142@3@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346142,
+                "team_1_id": 5001848548,
+                "team_2_id": 5001848362,
+                "team_1": {
+                    "id": 5001848548,
+                    "tournament_id": 5000005786,
+                    "title": "Fare2003",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "517590344",
+                    "extra_data": {
+                        "contacts": "fare2003",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848362,
+                    "tournament_id": 5000005786,
+                    "title": "Boom Boom - Won",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "513845441",
+                    "extra_data": {
+                        "contacts": "gegri",
+                        "description": "",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848548,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346142@3@2",
+                    "round": 3,
+                    "position": 2
+                },
+                "start_at": 1625945042.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            }
+        ],
+        "5000346143": [
+            {
+                "uuid": "5000346143@1@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346143,
+                "team_1_id": 5001848543,
+                "team_2_id": 5001848250,
+                "team_1": {
+                    "id": 5001848543,
+                    "tournament_id": 5000005786,
+                    "title": "Siwa",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "500362004",
+                    "extra_data": {
+                        "contacts": "dsa",
+                        "password": true,
+                        "description": "dsa",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848250,
+                    "tournament_id": 5000005786,
+                    "title": "TXAFN",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "504821950",
+                    "extra_data": {
+                        "contacts": "morse",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848543,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346143@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1625943602.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346143@1@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346143,
+                "team_1_id": 5001848523,
+                "team_2_id": 5001848552,
+                "team_1": {
+                    "id": 5001848523,
+                    "tournament_id": 5000005786,
+                    "title": "\u00c9n csak ide f\u00f6lj\u00e1rok",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "535873794",
+                    "extra_data": {
+                        "contacts": "Doxy7",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848552,
+                    "tournament_id": 5000005786,
+                    "title": "Boere Kommando",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "571091704",
+                    "extra_data": {
+                        "contacts": "Email me at marcellgardiner@gmail.com",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848523,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346143@1@2",
+                    "round": 1,
+                    "position": 2
+                },
+                "start_at": 1625943602.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346143@2@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346143,
+                "team_1_id": 5001848543,
+                "team_2_id": 5001848552,
+                "team_1": {
+                    "id": 5001848543,
+                    "tournament_id": 5000005786,
+                    "title": "Siwa",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "500362004",
+                    "extra_data": {
+                        "contacts": "dsa",
+                        "password": true,
+                        "description": "dsa",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848552,
+                    "tournament_id": 5000005786,
+                    "title": "Boere Kommando",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "571091704",
+                    "extra_data": {
+                        "contacts": "Email me at marcellgardiner@gmail.com",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848543,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346143@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1625944322.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346143@2@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346143,
+                "team_1_id": 5001848250,
+                "team_2_id": 5001848523,
+                "team_1": {
+                    "id": 5001848250,
+                    "tournament_id": 5000005786,
+                    "title": "TXAFN",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "504821950",
+                    "extra_data": {
+                        "contacts": "morse",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848523,
+                    "tournament_id": 5000005786,
+                    "title": "\u00c9n csak ide f\u00f6lj\u00e1rok",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "535873794",
+                    "extra_data": {
+                        "contacts": "Doxy7",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848523,
+                "settings": {
+                    "map": "Ensk"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346143@2@2",
+                    "round": 2,
+                    "position": 2
+                },
+                "start_at": 1625944322.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346143@3@1",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346143,
+                "team_1_id": 5001848543,
+                "team_2_id": 5001848523,
+                "team_1": {
+                    "id": 5001848543,
+                    "tournament_id": 5000005786,
+                    "title": "Siwa",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "500362004",
+                    "extra_data": {
+                        "contacts": "dsa",
+                        "password": true,
+                        "description": "dsa",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848523,
+                    "tournament_id": 5000005786,
+                    "title": "\u00c9n csak ide f\u00f6lj\u00e1rok",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "535873794",
+                    "extra_data": {
+                        "contacts": "Doxy7",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848523,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346143@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1625945042.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346143@3@2",
+                "tournament_id": 5000005786,
+                "stage_id": 5000011616,
+                "group_id": 5000346143,
+                "team_1_id": 5001848552,
+                "team_2_id": 5001848250,
+                "team_1": {
+                    "id": 5001848552,
+                    "tournament_id": 5000005786,
+                    "title": "Boere Kommando",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "571091704",
+                    "extra_data": {
+                        "contacts": "Email me at marcellgardiner@gmail.com",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001848250,
+                    "tournament_id": 5000005786,
+                    "title": "TXAFN",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "504821950",
+                    "extra_data": {
+                        "contacts": "morse",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848250,
+                "settings": {
+                    "map": "Ghost Town"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346143@3@2",
+                    "round": 3,
+                    "position": 2
+                },
+                "start_at": 1625945042.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            }
+        ]
+    }
+}

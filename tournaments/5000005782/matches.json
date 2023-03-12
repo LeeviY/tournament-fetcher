@@ -1,0 +1,1866 @@
+{
+    "5000011608": {
+        "5000346231": [
+            {
+                "uuid": "5000346231@1@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346231,
+                "team_1_id": 5001849137,
+                "team_2_id": 5001849109,
+                "team_1": {
+                    "id": 5001849137,
+                    "tournament_id": 5000005782,
+                    "title": "Lions",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "510421700",
+                    "extra_data": {
+                        "contacts": "HI",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849109,
+                    "tournament_id": 5000005782,
+                    "title": "KEBAB",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "501222706",
+                    "extra_data": {
+                        "contacts": "HastaEtme_KEBAB",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849109,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346231@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346231@2@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346231,
+                "team_1_id": 5001849089,
+                "team_2_id": 5001849109,
+                "team_1": {
+                    "id": 5001849089,
+                    "tournament_id": 5000005782,
+                    "title": "Pogchampy WIDZOWIE",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "569440656",
+                    "extra_data": {
+                        "contacts": "wot",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849109,
+                    "tournament_id": 5000005782,
+                    "title": "KEBAB",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "501222706",
+                    "extra_data": {
+                        "contacts": "HastaEtme_KEBAB",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849089,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346231@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346231@3@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346231,
+                "team_1_id": 5001849089,
+                "team_2_id": 5001849137,
+                "team_1": {
+                    "id": 5001849089,
+                    "tournament_id": 5000005782,
+                    "title": "Pogchampy WIDZOWIE",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "569440656",
+                    "extra_data": {
+                        "contacts": "wot",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849137,
+                    "tournament_id": 5000005782,
+                    "title": "Lions",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "510421700",
+                    "extra_data": {
+                        "contacts": "HI",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849089,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346231@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            }
+        ],
+        "5000346232": [
+            {
+                "uuid": "5000346232@1@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346232,
+                "team_1_id": 5001849116,
+                "team_2_id": 5001849134,
+                "team_1": {
+                    "id": 5001849116,
+                    "tournament_id": 5000005782,
+                    "title": "LosPeeposOnTheRun",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "506858569",
+                    "extra_data": {
+                        "contacts": "PeepoPooPoo",
+                        "password": true,
+                        "description": "we're back again?",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849134,
+                    "tournament_id": 5000005782,
+                    "title": "WOLNA PALESTYNA",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "527488257",
+                    "extra_data": {
+                        "contacts": "xxx",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849134,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346232@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346232@2@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346232,
+                "team_1_id": 5001849064,
+                "team_2_id": 5001849134,
+                "team_1": {
+                    "id": 5001849064,
+                    "tournament_id": 5000005782,
+                    "title": "SRBI",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "516351236",
+                    "extra_data": {
+                        "contacts": ",,,",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849134,
+                    "tournament_id": 5000005782,
+                    "title": "WOLNA PALESTYNA",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "527488257",
+                    "extra_data": {
+                        "contacts": "xxx",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849134,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346232@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346232@3@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346232,
+                "team_1_id": 5001849064,
+                "team_2_id": 5001849116,
+                "team_1": {
+                    "id": 5001849064,
+                    "tournament_id": 5000005782,
+                    "title": "SRBI",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "516351236",
+                    "extra_data": {
+                        "contacts": ",,,",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849116,
+                    "tournament_id": 5000005782,
+                    "title": "LosPeeposOnTheRun",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "506858569",
+                    "extra_data": {
+                        "contacts": "PeepoPooPoo",
+                        "password": true,
+                        "description": "we're back again?",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849116,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346232@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            }
+        ],
+        "5000346233": [
+            {
+                "uuid": "5000346233@1@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346233,
+                "team_1_id": 5001849124,
+                "team_2_id": 5001849081,
+                "team_1": {
+                    "id": 5001849124,
+                    "tournament_id": 5000005782,
+                    "title": "DR3DD",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "533802623",
+                    "extra_data": {
+                        "contacts": "In game",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849081,
+                    "tournament_id": 5000005782,
+                    "title": "vodafone",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "550614726",
+                    "extra_data": {
+                        "contacts": "s",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849124,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346233@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346233@2@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346233,
+                "team_1_id": 5001849119,
+                "team_2_id": 5001849081,
+                "team_1": {
+                    "id": 5001849119,
+                    "tournament_id": 5000005782,
+                    "title": "LEKRAPENO",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "571853428",
+                    "extra_data": {
+                        "contacts": "zavystar",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849081,
+                    "tournament_id": 5000005782,
+                    "title": "vodafone",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "550614726",
+                    "extra_data": {
+                        "contacts": "s",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849119,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346233@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346233@3@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346233,
+                "team_1_id": 5001849119,
+                "team_2_id": 5001849124,
+                "team_1": {
+                    "id": 5001849119,
+                    "tournament_id": 5000005782,
+                    "title": "LEKRAPENO",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "571853428",
+                    "extra_data": {
+                        "contacts": "zavystar",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849124,
+                    "tournament_id": 5000005782,
+                    "title": "DR3DD",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "533802623",
+                    "extra_data": {
+                        "contacts": "In game",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849119,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346233@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            }
+        ],
+        "5000346234": [
+            {
+                "uuid": "5000346234@1@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346234,
+                "team_1_id": 5001849056,
+                "team_2_id": 5001848665,
+                "team_1": {
+                    "id": 5001849056,
+                    "tournament_id": 5000005782,
+                    "title": "T110E3",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "546780754",
+                    "extra_data": {
+                        "contacts": "Zabijak_tesa_cz",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001848665,
+                    "tournament_id": 5000005782,
+                    "title": "Hoca",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "527911948",
+                    "extra_data": {
+                        "contacts": "Hoca",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848665,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346234@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346234@1@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346234,
+                "team_1_id": 5001848728,
+                "team_2_id": 5001849136,
+                "team_1": {
+                    "id": 5001848728,
+                    "tournament_id": 5000005782,
+                    "title": "P\u00f6r\u00f6g a fok\u00fasz",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "565613307",
+                    "extra_data": {
+                        "contacts": "makromirko in game",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849136,
+                    "tournament_id": 5000005782,
+                    "title": "\ud83c\udf96\ufe0fYUUUP\ud83c\udf96\ufe0f",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "516235504",
+                    "extra_data": {
+                        "contacts": "\ud83c\udf96\ufe0fPrivate Message Litek on wot :)\ud83c\udf96\ufe0f",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848728,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346234@1@2",
+                    "round": 1,
+                    "position": 2
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346234@2@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346234,
+                "team_1_id": 5001849056,
+                "team_2_id": 5001849136,
+                "team_1": {
+                    "id": 5001849056,
+                    "tournament_id": 5000005782,
+                    "title": "T110E3",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "546780754",
+                    "extra_data": {
+                        "contacts": "Zabijak_tesa_cz",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001849136,
+                    "tournament_id": 5000005782,
+                    "title": "\ud83c\udf96\ufe0fYUUUP\ud83c\udf96\ufe0f",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "516235504",
+                    "extra_data": {
+                        "contacts": "\ud83c\udf96\ufe0fPrivate Message Litek on wot :)\ud83c\udf96\ufe0f",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849136,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346234@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346234@2@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346234,
+                "team_1_id": 5001848665,
+                "team_2_id": 5001848728,
+                "team_1": {
+                    "id": 5001848665,
+                    "tournament_id": 5000005782,
+                    "title": "Hoca",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "527911948",
+                    "extra_data": {
+                        "contacts": "Hoca",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848728,
+                    "tournament_id": 5000005782,
+                    "title": "P\u00f6r\u00f6g a fok\u00fasz",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "565613307",
+                    "extra_data": {
+                        "contacts": "makromirko in game",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848728,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346234@2@2",
+                    "round": 2,
+                    "position": 2
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346234@3@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346234,
+                "team_1_id": 5001849056,
+                "team_2_id": 5001848728,
+                "team_1": {
+                    "id": 5001849056,
+                    "tournament_id": 5000005782,
+                    "title": "T110E3",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "546780754",
+                    "extra_data": {
+                        "contacts": "Zabijak_tesa_cz",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001848728,
+                    "tournament_id": 5000005782,
+                    "title": "P\u00f6r\u00f6g a fok\u00fasz",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "565613307",
+                    "extra_data": {
+                        "contacts": "makromirko in game",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848728,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346234@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346234@3@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346234,
+                "team_1_id": 5001849136,
+                "team_2_id": 5001848665,
+                "team_1": {
+                    "id": 5001849136,
+                    "tournament_id": 5000005782,
+                    "title": "\ud83c\udf96\ufe0fYUUUP\ud83c\udf96\ufe0f",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "516235504",
+                    "extra_data": {
+                        "contacts": "\ud83c\udf96\ufe0fPrivate Message Litek on wot :)\ud83c\udf96\ufe0f",
+                        "password": true,
+                        "description": "",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848665,
+                    "tournament_id": 5000005782,
+                    "title": "Hoca",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "527911948",
+                    "extra_data": {
+                        "contacts": "Hoca",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849136,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346234@3@2",
+                    "round": 3,
+                    "position": 2
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            }
+        ],
+        "5000346235": [
+            {
+                "uuid": "5000346235@1@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346235,
+                "team_1_id": 5001849127,
+                "team_2_id": 5001848644,
+                "team_1": {
+                    "id": 5001849127,
+                    "tournament_id": 5000005782,
+                    "title": "Random",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "522980452",
+                    "extra_data": {
+                        "contacts": "Vokayo",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848644,
+                    "tournament_id": 5000005782,
+                    "title": "Hungary",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "567760895",
+                    "extra_data": {
+                        "contacts": "Fec_2020",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849127,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346235@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346235@1@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346235,
+                "team_1_id": 5001849105,
+                "team_2_id": 5001849126,
+                "team_1": {
+                    "id": 5001849105,
+                    "tournament_id": 5000005782,
+                    "title": "_3LUE",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "500629851",
+                    "extra_data": {
+                        "contacts": "facebook",
+                        "password": true,
+                        "description": "elo",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849126,
+                    "tournament_id": 5000005782,
+                    "title": "genos",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "507825214",
+                    "extra_data": {
+                        "contacts": "kokots",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849105,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346235@1@2",
+                    "round": 1,
+                    "position": 2
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346235@2@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346235,
+                "team_1_id": 5001849127,
+                "team_2_id": 5001849126,
+                "team_1": {
+                    "id": 5001849127,
+                    "tournament_id": 5000005782,
+                    "title": "Random",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "522980452",
+                    "extra_data": {
+                        "contacts": "Vokayo",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849126,
+                    "tournament_id": 5000005782,
+                    "title": "genos",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "507825214",
+                    "extra_data": {
+                        "contacts": "kokots",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849126,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346235@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346235@2@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346235,
+                "team_1_id": 5001848644,
+                "team_2_id": 5001849105,
+                "team_1": {
+                    "id": 5001848644,
+                    "tournament_id": 5000005782,
+                    "title": "Hungary",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "567760895",
+                    "extra_data": {
+                        "contacts": "Fec_2020",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001849105,
+                    "tournament_id": 5000005782,
+                    "title": "_3LUE",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "500629851",
+                    "extra_data": {
+                        "contacts": "facebook",
+                        "password": true,
+                        "description": "elo",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849105,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346235@2@2",
+                    "round": 2,
+                    "position": 2
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346235@3@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346235,
+                "team_1_id": 5001849127,
+                "team_2_id": 5001849105,
+                "team_1": {
+                    "id": 5001849127,
+                    "tournament_id": 5000005782,
+                    "title": "Random",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "522980452",
+                    "extra_data": {
+                        "contacts": "Vokayo",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849105,
+                    "tournament_id": 5000005782,
+                    "title": "_3LUE",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "500629851",
+                    "extra_data": {
+                        "contacts": "facebook",
+                        "password": true,
+                        "description": "elo",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 0,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346235@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 0,
+                    "draws": 1
+                }
+            },
+            {
+                "uuid": "5000346235@3@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346235,
+                "team_1_id": 5001849126,
+                "team_2_id": 5001848644,
+                "team_1": {
+                    "id": 5001849126,
+                    "tournament_id": 5000005782,
+                    "title": "genos",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "507825214",
+                    "extra_data": {
+                        "contacts": "kokots",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001848644,
+                    "tournament_id": 5000005782,
+                    "title": "Hungary",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "567760895",
+                    "extra_data": {
+                        "contacts": "Fec_2020",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849126,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346235@3@2",
+                    "round": 3,
+                    "position": 2
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            }
+        ],
+        "5000346236": [
+            {
+                "uuid": "5000346236@1@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346236,
+                "team_1_id": 5001848095,
+                "team_2_id": 5001849125,
+                "team_1": {
+                    "id": 5001848095,
+                    "tournament_id": 5000005782,
+                    "title": "Golden Noobs",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "528181205",
+                    "extra_data": {
+                        "contacts": "N/A",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849125,
+                    "tournament_id": 5000005782,
+                    "title": "P\u00f6r\u00f6g a f\u00f3kusz",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "526083264",
+                    "extra_data": {
+                        "contacts": "RAP GOD",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849125,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346236@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346236@1@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346236,
+                "team_1_id": 5001849123,
+                "team_2_id": 5001849135,
+                "team_1": {
+                    "id": 5001849123,
+                    "tournament_id": 5000005782,
+                    "title": "Nashi",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "529012492",
+                    "extra_data": {
+                        "contacts": "ROMZ43",
+                        "description": "Nashi",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001849135,
+                    "tournament_id": 5000005782,
+                    "title": "NO MERCY",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "577409898",
+                    "extra_data": {
+                        "contacts": "dsada",
+                        "password": true,
+                        "description": "dsada",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849123,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346236@1@2",
+                    "round": 1,
+                    "position": 2
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346236@2@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346236,
+                "team_1_id": 5001848095,
+                "team_2_id": 5001849135,
+                "team_1": {
+                    "id": 5001848095,
+                    "tournament_id": 5000005782,
+                    "title": "Golden Noobs",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "528181205",
+                    "extra_data": {
+                        "contacts": "N/A",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849135,
+                    "tournament_id": 5000005782,
+                    "title": "NO MERCY",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "577409898",
+                    "extra_data": {
+                        "contacts": "dsada",
+                        "password": true,
+                        "description": "dsada",
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849135,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346236@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346236@2@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346236,
+                "team_1_id": 5001849125,
+                "team_2_id": 5001849123,
+                "team_1": {
+                    "id": 5001849125,
+                    "tournament_id": 5000005782,
+                    "title": "P\u00f6r\u00f6g a f\u00f3kusz",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "526083264",
+                    "extra_data": {
+                        "contacts": "RAP GOD",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849123,
+                    "tournament_id": 5000005782,
+                    "title": "Nashi",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "529012492",
+                    "extra_data": {
+                        "contacts": "ROMZ43",
+                        "description": "Nashi",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849125,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346236@2@2",
+                    "round": 2,
+                    "position": 2
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346236@3@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346236,
+                "team_1_id": 5001848095,
+                "team_2_id": 5001849123,
+                "team_1": {
+                    "id": 5001848095,
+                    "tournament_id": 5000005782,
+                    "title": "Golden Noobs",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "528181205",
+                    "extra_data": {
+                        "contacts": "N/A",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849123,
+                    "tournament_id": 5000005782,
+                    "title": "Nashi",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "529012492",
+                    "extra_data": {
+                        "contacts": "ROMZ43",
+                        "description": "Nashi",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849123,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346236@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346236@3@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346236,
+                "team_1_id": 5001849135,
+                "team_2_id": 5001849125,
+                "team_1": {
+                    "id": 5001849135,
+                    "tournament_id": 5000005782,
+                    "title": "NO MERCY",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "577409898",
+                    "extra_data": {
+                        "contacts": "dsada",
+                        "password": true,
+                        "description": "dsada",
+                        "disqualify_reason": null
+                    }
+                },
+                "team_2": {
+                    "id": 5001849125,
+                    "tournament_id": 5000005782,
+                    "title": "P\u00f6r\u00f6g a f\u00f3kusz",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "526083264",
+                    "extra_data": {
+                        "contacts": "RAP GOD",
+                        "password": true,
+                        "description": null,
+                        "disqualify_reason": null
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849135,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346236@3@2",
+                    "round": 3,
+                    "position": 2
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            }
+        ],
+        "5000346237": [
+            {
+                "uuid": "5000346237@1@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346237,
+                "team_1_id": 5001849121,
+                "team_2_id": 5001848920,
+                "team_1": {
+                    "id": 5001849121,
+                    "tournament_id": 5000005782,
+                    "title": "Szefy",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "534043596",
+                    "extra_data": {
+                        "contacts": "poczta polska",
+                        "description": "es na nobuw",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001848920,
+                    "tournament_id": 5000005782,
+                    "title": "\ud83d\ude08\ua9c1somewhat good\ua9c2\ud83d\ude08",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "564801302",
+                    "extra_data": {
+                        "contacts": "\ud83d\ude08\ua9c1somewhat good\ua9c2\ud83d\ude08",
+                        "description": "9000 + join\n+chif",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848920,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346237@1@1",
+                    "round": 1,
+                    "position": 1
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346237@1@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346237,
+                "team_1_id": 5001849055,
+                "team_2_id": 5001849100,
+                "team_1": {
+                    "id": 5001849055,
+                    "tournament_id": 5000005782,
+                    "title": "1010 NSR",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "547072564",
+                    "extra_data": {
+                        "contacts": "Discord: \ud835\udd7d\ud835\udd75\ud835\udd6e#0534",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001849100,
+                    "tournament_id": 5000005782,
+                    "title": "Der Eisblock",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "523995589",
+                    "extra_data": {
+                        "contacts": "mort2013",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849055,
+                "settings": {
+                    "map": "Prokhorovka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346237@1@2",
+                    "round": 1,
+                    "position": 2
+                },
+                "start_at": 1626030002.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346237@2@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346237,
+                "team_1_id": 5001849121,
+                "team_2_id": 5001849100,
+                "team_1": {
+                    "id": 5001849121,
+                    "tournament_id": 5000005782,
+                    "title": "Szefy",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "534043596",
+                    "extra_data": {
+                        "contacts": "poczta polska",
+                        "description": "es na nobuw",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001849100,
+                    "tournament_id": 5000005782,
+                    "title": "Der Eisblock",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "523995589",
+                    "extra_data": {
+                        "contacts": "mort2013",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849121,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346237@2@1",
+                    "round": 2,
+                    "position": 1
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 1,
+                    "wins_team_2": 0,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346237@2@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346237,
+                "team_1_id": 5001848920,
+                "team_2_id": 5001849055,
+                "team_1": {
+                    "id": 5001848920,
+                    "tournament_id": 5000005782,
+                    "title": "\ud83d\ude08\ua9c1somewhat good\ua9c2\ud83d\ude08",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "564801302",
+                    "extra_data": {
+                        "contacts": "\ud83d\ude08\ua9c1somewhat good\ua9c2\ud83d\ude08",
+                        "description": "9000 + join\n+chif",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001849055,
+                    "tournament_id": 5000005782,
+                    "title": "1010 NSR",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "547072564",
+                    "extra_data": {
+                        "contacts": "Discord: \ud835\udd7d\ud835\udd75\ud835\udd6e#0534",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849055,
+                "settings": {
+                    "map": "Himmelsdorf"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346237@2@2",
+                    "round": 2,
+                    "position": 2
+                },
+                "start_at": 1626030722.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346237@3@1",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346237,
+                "team_1_id": 5001849121,
+                "team_2_id": 5001849055,
+                "team_1": {
+                    "id": 5001849121,
+                    "tournament_id": 5000005782,
+                    "title": "Szefy",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "534043596",
+                    "extra_data": {
+                        "contacts": "poczta polska",
+                        "description": "es na nobuw",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001849055,
+                    "tournament_id": 5000005782,
+                    "title": "1010 NSR",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "547072564",
+                    "extra_data": {
+                        "contacts": "Discord: \ud835\udd7d\ud835\udd75\ud835\udd6e#0534",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001849055,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346237@3@1",
+                    "round": 3,
+                    "position": 1
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            },
+            {
+                "uuid": "5000346237@3@2",
+                "tournament_id": 5000005782,
+                "stage_id": 5000011608,
+                "group_id": 5000346237,
+                "team_1_id": 5001849100,
+                "team_2_id": 5001848920,
+                "team_1": {
+                    "id": 5001849100,
+                    "tournament_id": 5000005782,
+                    "title": "Der Eisblock",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "523995589",
+                    "extra_data": {
+                        "contacts": "mort2013",
+                        "description": null,
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "team_2": {
+                    "id": 5001848920,
+                    "tournament_id": 5000005782,
+                    "title": "\ud83d\ude08\ua9c1somewhat good\ua9c2\ud83d\ude08",
+                    "status": {
+                        "code": "confirmed",
+                        "title": "Confirmed"
+                    },
+                    "owner": "564801302",
+                    "extra_data": {
+                        "contacts": "\ud83d\ude08\ua9c1somewhat good\ua9c2\ud83d\ude08",
+                        "description": "9000 + join\n+chif",
+                        "disqualify_reason": null,
+                        "password": false
+                    }
+                },
+                "state": "got_results",
+                "winner_team_id": 5001848920,
+                "settings": {
+                    "map": "Murovanka"
+                },
+                "tournament_system_specific_data": {
+                    "uuid": "5000346237@3@2",
+                    "round": 3,
+                    "position": 2
+                },
+                "start_at": 1626031442.0,
+                "extra_data": {
+                    "wins_team_1": 0,
+                    "wins_team_2": 1,
+                    "draws": 0
+                }
+            }
+        ]
+    }
+}

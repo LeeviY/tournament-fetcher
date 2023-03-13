@@ -130,12 +130,26 @@ def fetchTournamentInfo(tournamet_id: str) -> dict:
                     print("No reward")
                 rewards.append({"placement": title, "reward": value})
 
+    team_size = responseBody.body.find(
+        "span", attrs={"class": "js-min-players"}).get("data-min-players")
+    vehicle_tier = responseBody.body.find("ul", attrs={
+        "class": "detail-lists_list detail-lists_list__half detail-lists_list__border-type-2"}).findChild("span", attrs={"class": "detail-lists_description"}).text.replace(" ", "").replace("\n", "")
+
+    # team_size = responseBody.body.find(
+    # "span", attrs={"class": "data-min-players"}).get("data-min-players")
+    # vehicle_tier = responseBody.body.find("span", attrs={
+    # "class": "detail-lists_list detail-lists_list__half detail-lists_list__border-type-2"}).findChild("span", attrs={"class": "detail-lists_description"}).text
+    # except:
+    # print("No details")
+
     info = {
         "tournament_title": responseBody.body.find("span", attrs={"class": "header-inner_name"}).text.strip(),
         "tournament_start": responseBody.body.find("span", attrs={"class": "header-inner_status js-tournament-schedule"}).get("data-start-date"),
         "tournament_end": responseBody.body.find("span", attrs={"class": "header-inner_status js-tournament-schedule"}).get("data-end-date"),
         "bracket": small_info,
-        "rewards": rewards
+        "rewards": rewards,
+        "team_size": team_size,
+        "tier": vehicle_tier
     }
 
     return info
@@ -154,20 +168,21 @@ def main():
         id = line[:-1]
         print(id)
 
-        if id > "5000000848":
+        if id > "5000002157":
             continue
 
         tournamentPath = f"{jsonDirPath}\\{id}"
         createDir(tournamentPath)
-
         # Fetch tournament ids json
         tournament_json = fetchTournamentIds(
             id, "0ia3b7lmspp7rhorl8bycqauwb8dzeme")
         print(tournament_json)
-        writeJsonToFile(f"{tournamentPath}\\tournament.json", tournament_json)
+        #writeJsonToFile(f"{tournamentPath}\\tournament.json", tournament_json)
 
         if not tournament_json["tournament_participation"]:
             continue
+            
+        """
 
         # Fetch teams
         teams = fetchTeams(id)
@@ -190,7 +205,7 @@ def main():
                 matches[stage_id][group_id] = fetchMatches(
                     id, stage_id, group_id)
 
-        writeJsonToFile(f"{tournamentPath}\\matches.json", matches)
+        writeJsonToFile(f"{tournamentPath}\\matches.json", matches)"""
 
         # Fetching tournament info
         tournament_info = fetchTournamentInfo(id)
